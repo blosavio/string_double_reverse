@@ -1,6 +1,6 @@
-(defproject com.sagevisuals/string_double_reverse "version5"
+(defproject com.sagevisuals/string_double_reverse "version6"
   :description "DEPRECATED: reverses your string twice"
-  :url "https://clojars.org/com.sagevisuals/string_double_reverse"
+  :url "https://github.com/blosavio/string_double_reverse"
   :license {:name "MIT License"
             :url "https://opensource.org/license/MIT"}
   :dependencies [[org.clojure/clojure "1.11.3"]

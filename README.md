@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/com.sagevisuals/string_double_reverse.svg)](https://clojars.org/com.sagevisuals/string_double_reverse)
+
 # string_double_reverse
 
 DO NOT USE: Practice for deploying to GitHub and Clojars.
